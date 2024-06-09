@@ -1,0 +1,21 @@
+<resources>
+    // Global
+    <string name="app_name">Relog intern</string>
+
+    // Main Screen
+    <string name="api_info">This app is based on Ozinshe api</string>
+    <string name="welcome_title">Welcome!</string>
+
+    // Auth
+    <string name="email">Email</string>
+    <string name="email_placeholder">Type email here</string>
+    <string name="password">Password</string>
+    <string name="password_placeholder">Type password here</string>
+    <string name="password_repeat">Repeat password</string>
+    <string name="login_title">Login to your account</string>
+    <string name="registration_title">Fill in your registration details</string>
+    <string name="have_account">I have an existing account</string>
+    <string name="have_not_account">I don\'t have an account</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="sign_up_button">Sign up</string>
+</resources>
